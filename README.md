@@ -14,4 +14,5 @@ fruit bounce across the screen.
 
 Loading the page "Applet.html" within a browser should (maybe) start the program.
 Failing that, from a command line you can try "appletviewer Applet.html".
+The applet can also be found at [this page](http://www.cs.ubc.ca/~jpsember/sfu/munchman.html).
 
